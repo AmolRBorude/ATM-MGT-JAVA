@@ -1,0 +1,24 @@
+# Java build files
+/build/
+/dist/
+/out/
+
+# NetBeans
+/nbproject/private/
+nbbuild/
+nbdist/
+nbactions.xml
+
+# JVM crash logs
+hs_err_pid*.log
+replay_pid*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Nested repo
+Ad.JavaATM-MGM-Project/
+
+# Compiled files
+*.class
