@@ -21,4 +21,5 @@ A Java-based ATM Management System that supports:
 4. Run `Login.java`
 
 ## 👨‍💻 Author
-Shyam Chavan
+Borude Amol Ramdas
+
